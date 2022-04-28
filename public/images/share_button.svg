@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="54.514" height="54.514" viewBox="0 0 54.514 54.514">
+  <defs>
+    <filter id="Path_203" x="0" y="0" width="54.514" height="54.514" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feFlood flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_706" data-name="Group 706" transform="translate(7.5 6.5)">
+    <g transform="matrix(1, 0, 0, 1, -7.5, -6.5)" filter="url(#Path_203)">
+      <path id="Path_203-2" data-name="Path 203" d="M19.757,0A19.757,19.757,0,1,1,0,19.757,19.757,19.757,0,0,1,19.757,0Z" transform="translate(7.5 6.5)" fill="#fff"/>
+    </g>
+    <g id="Group_121" data-name="Group 121" transform="translate(10.675 10.547)">
+      <g id="Ellipse_241" data-name="Ellipse 241" transform="translate(11.088 0)" fill="#333" stroke="#333" stroke-width="1">
+        <circle cx="3.08" cy="3.08" r="3.08" stroke="none"/>
+        <circle cx="3.08" cy="3.08" r="2.58" fill="none"/>
+      </g>
+      <g id="Ellipse_242" data-name="Ellipse 242" transform="translate(11.088 11.088)" fill="#333" stroke="#333" stroke-width="1">
+        <ellipse cx="3.08" cy="3.388" rx="3.08" ry="3.388" stroke="none"/>
+        <ellipse cx="3.08" cy="3.388" rx="2.58" ry="2.888" fill="none"/>
+      </g>
+      <g id="Ellipse_243" data-name="Ellipse 243" transform="translate(0 6.16)" fill="#333" stroke="#333" stroke-width="1">
+        <ellipse cx="3.08" cy="3.388" rx="3.08" ry="3.388" stroke="none"/>
+        <ellipse cx="3.08" cy="3.388" rx="2.58" ry="2.888" fill="none"/>
+      </g>
+      <path id="Path_206" data-name="Path 206" d="M1022.247,818.6l-9.342,5.28,9.342,5.28" transform="translate(-1009.366 -814.6)" fill="none" stroke="#333" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>
